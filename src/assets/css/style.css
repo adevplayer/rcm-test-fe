@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;300;400&display=swap');
+
+body  {
+  font-family: 'Bebas Neue', cursive !important;
+}
+.bolded {
+  font-size: 17px;
+  font-weight: bold;
+  color: #000;
+}
