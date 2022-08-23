@@ -9,4 +9,4 @@
 
 ## To run the App
 - npm install
-- npm start
+- npm run dev
